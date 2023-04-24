@@ -12,4 +12,4 @@ HOW TO USE
 
 6 - Congratulations, your folder/s are created where you wanted.
 
-Name of folders is created by looping (x + 1 = x) times amount of folders you want.
+Name of folders is created by looping (name)+(x + 1 = x) times amount of folders you want.
