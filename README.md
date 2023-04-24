@@ -11,3 +11,4 @@ HOW TO USE
 5 - Type where you want to create these folders(enter).
 
 6 - Congratulations, your folder/s are created where you wanted.
+Name of folders is created by looping (x + 1 = x) times amount of folders you want.
